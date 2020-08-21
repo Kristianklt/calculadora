@@ -1,7 +1,7 @@
 <?php
 
-require 'Operacao.php';
-require 'Calculadora.php';
+require 'Operacao.php ';
+require 'Calculadora.php ';
 
 $opEscolhida = readline ('Digite a operacao escolhida ');
 $n1 = readline ('Digite o Primeiro numero ');
